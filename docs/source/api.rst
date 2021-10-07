@@ -1,7 +1,5 @@
 API
-===
 
-.. autosummary::
-   :toctree: generated
+SUSAPI 2.0
 
-   lumache
+AMOGUS
