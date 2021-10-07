@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'sus'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2021, sus'
+author = 'sus'
 
-release = '0.1'
-version = '0.1.0'
+release = '6.9'
+version = '0.6.9'
 
 # -- General configuration
 
